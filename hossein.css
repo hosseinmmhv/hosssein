@@ -1,0 +1,11 @@
+body
+{
+    justify-content: right;
+	min-height: 100vh;
+	background: #000; 
+    color: rgb(255, 255, 255);
+}
+*
+{
+    color: rgb(255, 255, 255);
+}
